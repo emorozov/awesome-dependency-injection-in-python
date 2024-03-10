@@ -50,11 +50,13 @@
 - [Rodi](https://github.com/RobertoPrevato/rodi) ★136 - Implementation of dependency injection for Python 3. [🐍, MIT License].
 - [injectable](https://github.com/allrod5/injectable) ★104 - Python Dependency Injection for Humans™. [🐍, MIT License].
 - [Antidote](https://github.com/Finistere/antidote) ★89 - Dependency injection for Python. [🐍, MIT License].
+- [dishka](https://github.com/reagento/dishka) ★74 - Cute DI framework with scopes and agreeable API. [🐍, Apache License 2.0].
 - [Opyoid](https://github.com/illuin-tech/opyoid) ★58 - Dependency injection library for Python. [🐍, MIT License].
 - [Wireup](https://github.com/maldoinc/wireup) ★51 - Concise, Powerful, and Type-Safe Python Dependency Injection Library. [🐍, MIT License].
 - [Lagom](https://lagom-di.readthedocs.io/en/latest/) ★30: Type based auto-wiring dependency injection with support for async and threading.
 - [Fresh Bakery](https://github.com/Mityuha/fresh-bakery) ★18 - Bake dependency injections asynchronously and stupidly simple. [🐍, MIT License].
 - [andi](https://github.com/scrapinghub/andi) ★17 - Library for annotation-based dependency injection. [🐍, BSD 3-Clause "New" or "Revised" License].
+- [taskiq-dependencies](https://github.com/taskiq-python/taskiq-dependencies) ★12 - FastAPI-like dependency injection. [🐍].
 
 
 ### DI components of Web frameworks
